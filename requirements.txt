@@ -1,0 +1,13 @@
+datasets
+nltk~=3.7
+torch
+gensim
+numpy
+pandas~=1.4.2
+matplotlib~=3.5.2
+spacy~=3.3.0
+scikit-learn~=1.1.0
+tqdm~=4.64.0
+tokenizers~=0.13.2
+transformers
+SciencePlots
